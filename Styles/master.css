@@ -129,6 +129,7 @@ img{
 @media screen and (max-width: 448px){
     .pin_container {
         grid-template-columns: repeat(auto-fill, 400px);
+        margin-left: 15px;
     }
 
     .nav .search{
